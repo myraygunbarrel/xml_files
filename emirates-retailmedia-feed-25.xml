@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-21T12:00:00+03:00">
+  <shop>
+    <name>Level.Travel</name>
+    <company>ООО «Академия Сервиса»</company>
+    <url>https://level.travel/</url>
+
+    <categories>
+      <category id="101">Ближний Восток</category>
+      <category id="102">Азия</category>
+      <category id="103">Европа</category>
+      <category id="104">Африка</category>
+      <category id="105">Америка и Океания</category>
+    </categories>
+
+    <offers>
+      <offer id="emirates-001" available="true">
+        <url>https://customer.level.travel/emirates?route=dubai</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>101</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Дубай</name>
+        <description>Перелёт авиакомпанией Emirates в Дубай</description>
+      </offer>
+      <offer id="emirates-002" available="true">
+        <url>https://customer.level.travel/emirates?route=abu-dhabi</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>101</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Абу-Даби</name>
+        <description>Перелёт авиакомпанией Emirates в Абу-Даби</description>
+      </offer>
+      <offer id="emirates-003" available="true">
+        <url>https://customer.level.travel/emirates?route=doha</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>101</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Доху</name>
+        <description>Перелёт авиакомпанией Emirates в Доху</description>
+      </offer>
+      <offer id="emirates-004" available="true">
+        <url>https://customer.level.travel/emirates?route=muscat</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>101</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Маскат</name>
+        <description>Перелёт авиакомпанией Emirates в Маскат</description>
+      </offer>
+      <offer id="emirates-005" available="true">
+        <url>https://customer.level.travel/emirates?route=riyadh</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>101</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Эр-Рияд</name>
+        <description>Перелёт авиакомпанией Emirates в Эр-Рияд</description>
+      </offer>
+
+      <offer id="emirates-006" available="true">
+        <url>https://customer.level.travel/emirates?route=bangkok</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>102</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Бангкок</name>
+        <description>Перелёт авиакомпанией Emirates в Бангкок</description>
+      </offer>
+      <offer id="emirates-007" available="true">
+        <url>https://customer.level.travel/emirates?route=phuket</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>102</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates на Пхукет</name>
+        <description>Перелёт авиакомпанией Emirates на Пхукет</description>
+      </offer>
+      <offer id="emirates-008" available="true">
+        <url>https://customer.level.travel/emirates?route=male</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>102</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Мале</name>
+        <description>Перелёт авиакомпанией Emirates в Мале</description>
+      </offer>
+      <offer id="emirates-009" available="true">
+        <url>https://customer.level.travel/emirates?route=singapore</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>102</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Сингапур</name>
+        <description>Перелёт авиакомпанией Emirates в Сингапур</description>
+      </offer>
+      <offer id="emirates-010" available="true">
+        <url>https://customer.level.travel/emirates?route=tokyo</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>102</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Токио</name>
+        <description>Перелёт авиакомпанией Emirates в Токио</description>
+      </offer>
+
+      <offer id="emirates-011" available="true">
+        <url>https://customer.level.travel/emirates?route=london</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>103</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Лондон</name>
+        <description>Перелёт авиакомпанией Emirates в Лондон</description>
+      </offer>
+      <offer id="emirates-012" available="true">
+        <url>https://customer.level.travel/emirates?route=paris</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>103</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Париж</name>
+        <description>Перелёт авиакомпанией Emirates в Париж</description>
+      </offer>
+      <offer id="emirates-013" available="true">
+        <url>https://customer.level.travel/emirates?route=rome</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>103</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Рим</name>
+        <description>Перелёт авиакомпанией Emirates в Рим</description>
+      </offer>
+      <offer id="emirates-014" available="true">
+        <url>https://customer.level.travel/emirates?route=barcelona</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>103</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Барселону</name>
+        <description>Перелёт авиакомпанией Emirates в Барселону</description>
+      </offer>
+      <offer id="emirates-015" available="true">
+        <url>https://customer.level.travel/emirates?route=lisbon</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>103</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Лиссабон</name>
+        <description>Перелёт авиакомпанией Emirates в Лиссабон</description>
+      </offer>
+
+      <offer id="emirates-016" available="true">
+        <url>https://customer.level.travel/emirates?route=cairo</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>104</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Каир</name>
+        <description>Перелёт авиакомпанией Emirates в Каир</description>
+      </offer>
+      <offer id="emirates-017" available="true">
+        <url>https://customer.level.travel/emirates?route=mauritius</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>104</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates на Маврикий</name>
+        <description>Перелёт авиакомпанией Emirates на Маврикий</description>
+      </offer>
+      <offer id="emirates-018" available="true">
+        <url>https://customer.level.travel/emirates?route=seychelles</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>104</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates на Сейшелы</name>
+        <description>Перелёт авиакомпанией Emirates на Сейшелы</description>
+      </offer>
+      <offer id="emirates-019" available="true">
+        <url>https://customer.level.travel/emirates?route=cape-town</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>104</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Кейптаун</name>
+        <description>Перелёт авиакомпанией Emirates в Кейптаун</description>
+      </offer>
+      <offer id="emirates-020" available="true">
+        <url>https://customer.level.travel/emirates?route=nairobi</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>104</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Найроби</name>
+        <description>Перелёт авиакомпанией Emirates в Найроби</description>
+      </offer>
+
+      <offer id="emirates-021" available="true">
+        <url>https://customer.level.travel/emirates?route=new-york</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>105</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Нью-Йорк</name>
+        <description>Перелёт авиакомпанией Emirates в Нью-Йорк</description>
+      </offer>
+      <offer id="emirates-022" available="true">
+        <url>https://customer.level.travel/emirates?route=los-angeles</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>105</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Лос-Анджелес</name>
+        <description>Перелёт авиакомпанией Emirates в Лос-Анджелес</description>
+      </offer>
+      <offer id="emirates-023" available="true">
+        <url>https://customer.level.travel/emirates?route=toronto</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>105</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Торонто</name>
+        <description>Перелёт авиакомпанией Emirates в Торонто</description>
+      </offer>
+      <offer id="emirates-024" available="true">
+        <url>https://customer.level.travel/emirates?route=sydney</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>105</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Сидней</name>
+        <description>Перелёт авиакомпанией Emirates в Сидней</description>
+      </offer>
+      <offer id="emirates-025" available="true">
+        <url>https://customer.level.travel/emirates?route=melbourne</url>
+        <picture>https://media.bizj.us/view/img/1655801/a380-emirates.jpg</picture>
+        <categoryId>105</categoryId>
+        <vendor>Emirates</vendor>
+        <name>Авиабилеты Emirates в Мельбурн</name>
+        <description>Перелёт авиакомпанией Emirates в Мельбурн</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
