@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-08-21T12:00:00+03:00">
+  <shop>
+    <name>Дом 91</name>
+    <company>Дом 91</company>
+    <url>https://github.com/myraygunbarrel/xml_files</url>
+    <categories>
+      <category id="1">Мебель и предметы интерьера</category>
+      <category id="10" parentId="1">Спальня</category>
+      <category id="20" parentId="1">Гостиная</category>
+      <category id="30" parentId="1">Столовая и терраса</category>
+      <category id="40" parentId="1">Кабинет</category>
+      <category id="50" parentId="1">Хранение</category>
+      <category id="60" parentId="1">Кухня</category>
+    </categories>
+    <offers>
+      <offer id="1001" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1001.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1001.jpg</picture>
+        <categoryId>10</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Двуспальная кровать «Тёплый дуб»</name>
+        <description>Двуспальная кровать из дерева со светлым текстилем</description>
+      </offer>
+      <offer id="1002" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1002.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1002.jpg</picture>
+        <categoryId>10</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Односпальная кровать «Олива»</name>
+        <description>Односпальная деревянная кровать с оливковым покрывалом</description>
+      </offer>
+      <offer id="1003" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1003.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1003.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Диван-кровать «Терракота»</name>
+        <description>Компактный двухместный диван-кровать терракотового цвета</description>
+      </offer>
+      <offer id="1004" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1004.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1004.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Раскладной диван «Терракота»</name>
+        <description>Раскладной диван с полноценным спальным местом</description>
+      </offer>
+      <offer id="1005" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1005.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1005.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Угловой диван «Оливия»</name>
+        <description>Модульный угловой диван оливкового цвета с подушками</description>
+      </offer>
+      <offer id="1006" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1006.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1006.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Кресло «Мандарин»</name>
+        <description>Мягкое округлое кресло тёплого оранжевого цвета</description>
+      </offer>
+      <offer id="1007" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1007.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1007.jpg</picture>
+        <categoryId>30</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Стул «Венский мёд»</name>
+        <description>Деревянный обеденный стул с плетёной спинкой</description>
+      </offer>
+      <offer id="1008" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1008.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1008.jpg</picture>
+        <categoryId>30</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Садовое кресло «Летний бриз»</name>
+        <description>Складное садовое кресло с полосатым текстильным сиденьем</description>
+      </offer>
+      <offer id="1009" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1009.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1009.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Банкетка «Синяя линия»</name>
+        <description>Компактная деревянная банкетка с мягким синим сиденьем</description>
+      </offer>
+      <offer id="1010" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1010.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1010.jpg</picture>
+        <categoryId>30</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Обеденный стол «Орех»</name>
+        <description>Прямоугольный обеденный стол из дерева орехового оттенка</description>
+      </offer>
+      <offer id="1011" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1011.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1011.jpg</picture>
+        <categoryId>10</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Прикроватная тумба «Молочный дуб»</name>
+        <description>Деревянная прикроватная тумба со светлой столешницей и ящиком</description>
+      </offer>
+      <offer id="1012" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1012.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1012.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Трёхместный диван «Лесная олива»</name>
+        <description>Просторный трёхместный диван оливкового цвета с подушками</description>
+      </offer>
+      <offer id="1013" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1013.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1013.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Журнальный стол «Винтаж»</name>
+        <description>Прямоугольный журнальный стол из тёплого дерева</description>
+      </offer>
+      <offer id="1014" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1014.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1014.jpg</picture>
+        <categoryId>30</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Круглый обеденный стол «Солнце»</name>
+        <description>Круглый деревянный стол с радиальным рисунком столешницы</description>
+      </offer>
+      <offer id="1015" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1015.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1015.jpg</picture>
+        <categoryId>40</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Письменный стол «Кабинет»</name>
+        <description>Деревянный письменный стол со светлой рабочей поверхностью</description>
+      </offer>
+      <offer id="1016" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1016.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1016.jpg</picture>
+        <categoryId>60</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Кухонная рабочая тумба «Терраццо»</name>
+        <description>Напольная кухонная тумба с широкой рабочей поверхностью</description>
+      </offer>
+      <offer id="1017" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1017.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1017.jpg</picture>
+        <categoryId>60</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Кухонная тумба с мойкой «Терраццо»</name>
+        <description>Кухонная тумба с мойкой, смесителем и площадкой для сушки</description>
+      </offer>
+      <offer id="1018" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1018.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1018.jpg</picture>
+        <categoryId>50</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Встроенный шкаф «Лён»</name>
+        <description>Встроенный навесной шкаф с четырьмя светлыми фасадами</description>
+      </offer>
+      <offer id="1019" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1019.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1019.jpg</picture>
+        <categoryId>50</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Платяной шкаф «Гардероб»</name>
+        <description>Вместительный платяной шкаф с раздвижными дверями</description>
+      </offer>
+      <offer id="1020" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1020.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1020.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Настенный стеллаж «Библиотека»</name>
+        <description>Низкий настенный стеллаж с открытыми секциями для книг</description>
+      </offer>
+      <offer id="1021" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1021.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1021.jpg</picture>
+        <categoryId>50</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Тумба для игрушек «Радуга»</name>
+        <description>Детская тумба с четырьмя цветными контейнерами</description>
+      </offer>
+      <offer id="1022" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1022.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1022.jpg</picture>
+        <categoryId>50</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Кухонный шкаф-пенал «Высота»</name>
+        <description>Высокий узкий шкаф-пенал со светлым фасадом</description>
+      </offer>
+      <offer id="1023" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1023.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1023.jpg</picture>
+        <categoryId>50</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Комод с ящиками «Архив»</name>
+        <description>Широкий комод с восемью вместительными ящиками</description>
+      </offer>
+      <offer id="1024" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1024.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1024.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Телевизор «Ретро»</name>
+        <description>Телевизор в деревянном корпусе в стиле второй половины двадцатого века</description>
+      </offer>
+      <offer id="1025" available="true">
+        <url>https://github.com/myraygunbarrel/xml_files/blob/retailmedia-feed-25/images/home91/1025.jpg</url>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/retailmedia-feed-25/images/home91/1025.jpg</picture>
+        <categoryId>20</categoryId>
+        <vendor>Дом 91</vendor>
+        <name>Тумба под телевизор «Винтаж»</name>
+        <description>Низкая деревянная тумба под телевизор с ящиками и боковыми секциями</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
