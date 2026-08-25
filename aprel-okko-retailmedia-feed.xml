@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-25T12:00:00+03:00">
+  <shop>
+    <name>Аптека Апрель</name>
+    <company>Сеть аптек «Апрель»</company>
+    <url>https://apteka-april.ru/</url>
+    <categories>
+      <category id="1">Тестовые товары</category>
+    </categories>
+    <offers>
+      <offer id="okko-test-001" available="true">
+        <url>https://apteka-april.ru/</url>
+        <picture>https://storage.yandexcloud.net/emex/emex.png</picture>
+        <categoryId>1</categoryId>
+        <vendor>Окко</vendor>
+        <name>Тестовый товар Окко</name>
+        <description>Тестовый товар для проверки продвижения бренда Окко</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
