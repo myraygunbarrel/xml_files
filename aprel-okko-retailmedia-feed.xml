@@ -10,7 +10,7 @@
     <offers>
       <offer id="okko-test-001" available="true">
         <url>https://apteka-april.ru/</url>
-        <picture>https://storage.yandexcloud.net/emex/emex.png</picture>
+        <picture>https://raw.githubusercontent.com/myraygunbarrel/xml_files/okko-pharmacy-feeds/images/okko/okko-test-product.png</picture>
         <categoryId>1</categoryId>
         <vendor>Окко</vendor>
         <name>Тестовый товар Окко</name>
