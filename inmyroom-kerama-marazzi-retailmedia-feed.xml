@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-08-27T16:30:00+03:00">
+  <shop>
+    <name>INMYROOM</name>
+    <company>ООО «Платформа ИНМАЙРУМ»</company>
+    <url>https://www.inmyroom.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Керамическая плитка и керамогранит</category>
+    </categories>
+    <offers>
+      <offer id="inmyroom-kerama-marazzi-001" available="true">
+        <price>1600</price>
+        <currencyId>RUB</currencyId>
+        <url>https://www.inmyroom.ru/posts/14305-kak-podobrat-plitku-v-interer-video-iz-magazina-kerama-marazzi</url>
+        <picture>https://cdn2.inmyroom.ru/uploads/photo/file/86/86bb/86bb2981-f02f-4d4b-8a32-ee40cf3265aa.jpg</picture>
+        <categoryId>1</categoryId>
+        <vendor>KERAMA MARAZZI</vendor>
+        <name>Керамическая плитка KERAMA MARAZZI</name>
+        <description>Тестовый товар KERAMA MARAZZI для проверки продвижения бренда в магазине INMYROOM</description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
